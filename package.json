@@ -1,0 +1,25 @@
+{
+  "name": "fireship-blockchain",
+  "version": "1.0.0",
+  "description": "Exercise files from Fireship Blockchain Tutorial URL: https://www.youtube.com/watch?v=qF7dkrce-mQ",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsc -w",
+    "start": "tsc && node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ksprashu/ex_fireship-blockchain.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ksprashu/ex_fireship-blockchain/issues"
+  },
+  "homepage": "https://github.com/ksprashu/ex_fireship-blockchain#readme",
+  "devDependencies": {
+    "@types/node": "^16.11.12",
+    "typescript": "^4.5.2"
+  }
+}
